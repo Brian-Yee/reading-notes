@@ -1,0 +1,192 @@
+#+TITLE:Tractatus
+
+* Introduction
+** Abstract
+Many issues in philosophy arise out of
+- Lack of knowledge regarding the principles of symbollism
+- Misuse of language
+
+To avoid this we require a logical structure to express propositions.
+To build this understanding Wittgenstein discuss
+1. The theory of knowled
+2. The principles of physics
+3. Ethics
+4. The mystical
+** Understanding the Intent of the Work
+To understand Wittgenstein we must first understand the question he aims to
+answer. It is not
+- The meaning of what we intend to say through language
+  - That is psychology
+- It is not the relation between thoughts with words, sentences and what they mean
+  - That is epistimology
+- What the conditions are or truth hood or false hood of a sentence
+  - That belongs to some not otherwise specified special science concerned with
+    this question
+
+Rather it is
+- What relation must one fact (a sentence) must have with an other to be capable
+  of being a symbol for the other.
+** Perfect Language as an NP-Complete Problem
+Ordinary everyday language is subjective and as such it would be beneficial to
+have a way of gauging how subjective the use of language is. To do this the
+requirements for a perfect language can be stated although a solution may not
+neccessarily be created it is an NP-complete problem.
+
+Ideally the language should be constructed such that
+   - syntax forbids nonsensical proposition
+   - words have an *atomic* meaning
+
+The use of such a non-ambiguous use of language allows one to communicate the
+ideals of what language aims to addres: the assertion or denial of facts.
+** The Central Thesis of the Tractatus
+In any langauge the structure of a factual sentece *must be linked to the
+structure of the fact itself*. The commonality between proposition and fact
+cannot be said in the language but only shown. In many ways this is similar in
+spirit to Galois Theory or Godel's Incompletness theorem. In designing any
+language there will always be axiomatic reprecussions.
+
+Simple things should be assigned simple unique names. Things that are not simple
+do not get a unique name, rather they are compounded by simple symbols into a
+"complex". What is complex in the world is considered a fact which can either
+
+- Stand alone
+  - Sachverhalt
+- Be combined to make other facts
+  - Tatsache
+
+Linguistic expression arises out of the many ways to convey the commonality
+between fact and proposition in different languages much like the basis onto
+which a geometric object can be projected into different subspaces.
+
+Many of this should be in a certain elementary way obvious but a base in which
+to ground an argument should be obviously true in order to build unquestionable
+derivations from their axiomatic obviousness. However, even within the
+obviousness it is easy to misconstruct symbolic relations. If we say "Alice
+Loves Bob" we are ascerting a relation between the two atomic entites required
+to identify Alice and Bob such that `aRb`. However, as a complex sign
+
+- we must not say the complex sign "aRb" says that "a stands in a certain relation to b"
+- we must say "a" and "b" stand in relation such that "aRb"
+
+That is the complexity is bottom-up in such a way that the proposition is
+*buit* not *subdivided*
+** Pictures as Implicitly Logical Representations of Reality
+The aim of language is to express an internal "picture" that arranges symbols in
+such a way that they are logically cohesive. This pictured *need not be
+graphical*, all of the following
+
+- The gramophone
+- The musical thought
+- The sheetmusic
+- The CD-ROM
+- The waveform
+
+are all derived from the same picture, just as
+
+- Hansel
+- Gretel
+- The Witch
+ 
+are all derived from the same story. The picture formed has symbols which stand
+in relation to one another such that the picutre is not a picture if the symbol
+is omitted from it in a gestalt manner. Arguing over what "Hansel" is makes no
+sense out of context of what "Gretel" or "The Witch" is. No matter how wrong the
+internal picture of the symbols is there must remain a commanility between the
+structure of the picture and the structure of the fact itself. If I misremember
+the story of Hansel & Gretel as, for example, dropping acorns rather than
+breadcrumbs -- while being factually incorrect -- still continues to resembles
+the logical structure of the picture. The unknown logical "constants" which hold
+the story together cannot as a byproduct of the central thesis be expressed
+through which the language of which the picture is expressed.
+
+Thus arguing over the logical constants is meaningless in itself. Asking what
+"dropping acorns" or "dropping breadcrumbs" or "what dropping is" *is in general
+meaningless out of the context of the story*. Philosophy as a mode of arguing
+over these logical constants thusly ends up as meaningless in itself. It *can
+not* form logical propositions (because it is expressed through language), and
+*is not* a science because science is composed of a structural framework formed
+by combining logical propositions. Philosophy is not a thoery but rather an
+*activity one does* to sharpen the boundaries of a pictoral representation of
+the world. The result of philosophy is not a set of propositions but to make
+propositions clear(er). The most one can hope to achieve via philosophical
+disucssion is to disuade others from participating in philosophical discussion.
+
+** Facts
+While facts cannot be strictly defined they can be explained as what makes a
+proposition true or false. As mentioned previously facts can be compose of facts
+or be atomic (sachverhalt). The constituents of an atomic fact are referred to
+as *simples* or *objects* that are a logical neccessity demanded by theory just
+as the electron is demanded by particle physics. Anything *complex* -- that is
+by definition something which cannot be a simple because not everything can be
+simple as simples can form non-simple relations, as otherwise with no relations
+there would be no facts on which to evaluate truthhood or falsehood. If we name
+a complex, it is only meaningful in the context that it is factually true and it
+is truthiness must arise out of the relation of its simples. Thus given
+complexes are formed of facts, which must ultimately reduce to a set of atomic
+facts, which when analyzed must be formed of simples: simples are the thing
+which come logically first.
+
+The world can be fully described if all simples and facts are known. It is not
+enough to know only the simples. The proposition (truth or falsity) of an atomic
+fact is an atomic proposition which is orthogonal to all other atomic
+propositions. Compound propositions built out of atomic propositions are called
+molecular. Molecular propositions which depend *only* on the truthood/falsehood
+of a propostion $p$ are said to be truth functions. Like wise if a molecular
+proposition of multiple propositions must be only dependent on the
+truthood/falsehood of the multiple propositions. While the compmlexity of
+language may suggest that there are things which exist other than truth
+functions that depend solely on the boolean nature of an atomic fact, one can
+not that any logical gate (and there for truth function) can be formed of NAND
+gates. Thus, any logic can be constructed from a series of truth functions which
+are dependant on one atomic proposition. Building upon the prior work of
+logicians wittgenstein demonstrates that any fact is a truth function of atomic
+propositions. This insight has interesting applications include that of
+causality, the "fact" that the sun will rise tomorrow is in actuality not a fact
+it is a hypothesis. Their is no reason why time should *cause* the sun to rise.
+
+** Names
+In a perfect language names are to be given on a one-to-one correspondance to
+simples. In doing so it is not possible to enumerate all simples because as
+there would have to exist some _logical property by which everything could be
+named_. He critiques the notion of a self-identity and shows that the notion of
+identity as someone of which differentiates an object from the discernable is
+spurious. If something is discernable from nothig and two things are identical
+if all traits are equal, then it is possible to accidentally discern two things
+as equal, of which a perfect language would not allow for.
+
+Given the totatily of things cannot be enumerated, things which assume the
+truthood of that statement are therefore false. Thus saying "x is an object" is
+to say nothing, for the set of things defined by simples cannot be unified by
+objectictifying each as that would enforce the logical property by which
+everything could be named. Rather a connection of the object to a property must
+be applied (Heidegger screeches from far away) for the sentence to be
+meaningful. To say "there are 3 objects" is meaningless and requires a
+modification such as "there are 3 objects that are human" for example. From this
+it follows that we can only define subsets of the world. Just as our vision is
+not defined by vision boundaries so to is logic not definfed by logical
+boundaries. Rather logic fills the world and we cannot make general assertments
+about the totality of the world due to our finitness (pigeon hole principle).
+Therefore we can never exclude anything from the realm of possibility because in
+doing so we would define the limitations of the world as a whole as finite
+beings. What we cannot think we cannot think and thus we cannot say what we
+cannot think.
+
+Solipism -- the belief that only the self can be known -- thus aims to reserve
+judgement on the whole world except the self. However, the self I know is only
+determined by the boundaires of the world which are decided by the boundaries of
+my logical use of language. The metaphysical subject is not an object of the
+world (note the modification "of the world") but a boundary within the world.
+** Mysticism
+Given everything cannot be fully expounded by language due to the fact that the
+factual relations of simples cannot be described by the langauge itself, the
+left over portion is understood as mysticism. Within this mysticism all of
+philosophy is contained. The proper way to teaching philosophy would be to teach
+science and leave the student to explore the philosohpical ramifications before
+being shown that they are inhernetly meaningless. However, the grandure and
+weight of this statement relies on the assertion that things can only be shown
+which is an extreme amount of faith to place on the correct nature of one
+concept. Still all parts of the logical framework are extremely self-consistent,
+more so than average that understanding the framework of Wittgenstein regardless
+of the inherent beliefs of the reprecussions is an important undertaking for any
+philosohper. Bertrand Russel's main argument against Wittgenstein is
+life-experience.
