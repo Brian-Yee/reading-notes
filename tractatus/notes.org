@@ -190,3 +190,128 @@ more so than average that understanding the framework of Wittgenstein regardless
 of the inherent beliefs of the reprecussions is an important undertaking for any
 philosohper. Bertrand Russel's main argument against Wittgenstein is
 life-experience.
+* Preface
+The summary of the book can be stated as follows:
+
+_What can be said at all can be said clearly; and whereof one cannot speak
+thereof one must be silent._
+
+The book was written for personal pleasure. There will be no citations or
+references except for two in the preface commending Frege and Bertrand Rusell.
+* Chapter 1
+** Statement of Core Axioms
+1. The world is made of facts not objects.
+2. If an object is to exist it must exist as some part of a fact without accident.
+3. The totalilty of logical facts defines the world and the world divides into facts.
+* Chapter 2
+** Objects Embedded in Factual Space
+Just as we cannot spatially represent an object with embedding it in space so to
+can an object not be created in connection with other objects factually. If one
+can think of an object in the context of an atomic fact it cannot be thought
+outside of the possibility of the context of that fact.
+
+To know an object is to know all it's possibilities in occurance in atomic
+facts, as every possibility must be available internally to the object itself
+with no new possibilities able to be discovered. If all objects are known then
+it follows all atomic facts are known.
+
+Each thing is in a space of atomic facts. One can imagine the space empty but
+the thing without the space.
+
+*** Personal Thought Example: Vacuum Undergoing Quantum Fluctuations
+In vacuums where the probability of a particle/anti-particle pair can be
+spontenaously created and annihilited as a possibility the existance of these
+objects can only exist in the framework of physics that bring the objects in to
+existence with knowledge of the atomic facts that gvoern their reciprocity.
+
+*** A Simple Example:
+ An object must have some colour. It doesn't have to be red but it exists in a
+ space of colours defined by atomic facts. We can think of an object indepdent
+ of its colour but to give it colour requires their to be a colour space to give
+ it from. It exists within a so called colour space.
+** Objects are Defined by all the Ways they can be Described
+An object can be potentially represented in many different ways. An object is
+defined by all the ways it can be represented. The way an object is found to be
+presented is the form of the object.
+** Objects as the Substance of the World
+Objects are the substance of the world and cannot be subdivided. They can only
+be compounded into complexes that which can be analyzed by their composing
+objects. If we imagine a world with no substance and therefore no objects then
+whether a proposition made sense could only purely depend on other propositions.
+This infinetely regressive argument demonstrates that one could not therefore
+sketch out the world.
+
+No matter how different the mental representation of a world to someone is from
+the real world it must to some degree bear a commanility with the real world
+given it is a representation. This is not tautological but rather just obvious.
+This fixed form of things is just objects.
+
+The substance of the world being composed of objects can only be a form of the
+objects and not of material property. For it is the propositions in which an
+object is configured that determine any potential material property. Roughly
+speaking objecst are colourles, they do not differentiate by being different
+colours but because they are different. Either a thing has properties that no
+other thing has and thus I can readily distinguish it or it is a duplicate in
+the totality of it's properties. For if nothing distinguishes an object it
+cannot be distinignuished.
+
+For the world to be of fixed form there must be objects. The fixed, existing and
+object are one. Objects do not change they are immutable, it is only their
+configuration that can represent variation in the form of the world. The
+configuration of the objects froms an atomic fact.
+
+Objects hang together through a graph of relations the form is the possibility
+of the structure.
+** Atomic Facts
+The totality of atomic facts determines the non-existance of atomic facts which
+together constitute reality. The existence is also called a positive atomic fact
+and non-existane a negative atomic fact. All atomic facts exist indepdently of
+each other and thus whether one fact exists or not does not allow us to infer
+the existance of another.
+
+The sum total of reality is the world.
+** Pictures as a Form of Reality
+Facts create pictures which arrange them within a logical space -- that is the
+existance of non-existance of facts as a model of reality. Objects are the
+elements of the picture and the picture is constitutde by the arrangment of
+elements within it. The picture is a fact itself.
+
+The elements of a picture and their connections constitute the struture of the
+picture that it has taken form of. In this way pictures are a mental
+approximation of reality as a measure. Does the state of affairs fit the
+picture?
+
+*** Personal Thought Example: Vacuum Undergoing Quantum Fluctuations
+Consider asking yourself *"Does it fit within the picture?"* what other are we
+asking than ourselves if the picture constitutes the object it becomes a poor
+representation of the reality thus understood?
+** What Pictures can Represent Through Their Relations
+The relation of elements within the picture also belong to the picture. This
+pictoral relationship consists of the correlation of the elemtents of a picture
+with things. These correlations are what match it with reality and if a fact is
+to be a picture it must have something with what the picture is depicting.
+Something must be identical between the picture and reality which acts as a form
+of representation. The picture can represent the reality. A spatial picture can
+depict anything spatial, a coloure picture anything coloured
+
+The picture however cannot represent it's own pictoral form. It can only
+*display it to the indvidual*. A picture represents its subject from outside of
+it. Thus it can either be displayed correctly or incorrectly. A picutre cannot
+plaace itself outside of the form the representation that it expresses as
+otherwise the picture could not display something because that thing would have
+to be formless and indistinguashble form the boundary of the picture the
+audience views.
+
+Every picture rightly or wrongly displayed must contain a logical form to
+approximate it's form of reality. A picture whose pictoral form is logical is
+called a logical picture. Every picture is also a logical picture, however on
+the other hand not every picture is of the spatial form.
+
+The picture represents reality by represent what atomic facts exist and do not
+exist for a given situation of objects. It is a possible state of affairs set in
+logical space, either rightly or wrongly. It need not correspond to reality to
+represent it always represents its _sense_ that potentially aligns with reality.
+In it's alignment of sense with reality is where its truthood or falsehood
+consists. Thereby to ascertain whether a picture is true or false it must be
+comapred against reality. It cannot be determined by the picture alone if it is
+true. There is no picture that has an a priori truthhood.
