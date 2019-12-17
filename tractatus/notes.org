@@ -218,7 +218,7 @@ it follows all atomic facts are known.
 Each thing is in a space of atomic facts. One can imagine the space empty but
 the thing without the space.
 
-*** Personal Thought Example: Vacuum Undergoing Quantum Fluctuations
+*** Personal Thought:
 In vacuums where the probability of a particle/anti-particle pair can be
 spontenaously created and annihilited as a possibility the existance of these
 objects can only exist in the framework of physics that bring the objects in to
@@ -281,7 +281,7 @@ picture that it has taken form of. In this way pictures are a mental
 approximation of reality as a measure. Does the state of affairs fit the
 picture?
 
-*** Personal Thought Example: Vacuum Undergoing Quantum Fluctuations
+*** Personal Thought
 Consider asking yourself *"Does it fit within the picture?"* what other are we
 asking than ourselves if the picture constitutes the object it becomes a poor
 representation of the reality thus understood?
@@ -315,3 +315,292 @@ In it's alignment of sense with reality is where its truthood or falsehood
 consists. Thereby to ascertain whether a picture is true or false it must be
 comapred against reality. It cannot be determined by the picture alone if it is
 true. There is no picture that has an a priori truthhood.
+* Chapter 3
+** Expressing illogical opinion is impossible
+To present anything in language illogically is impossible. To express illogical
+language is to present contradict geomtery with a set of coordinates, it is
+impossible. What is presented through these coordinates of points is the truth
+which the set of points belong to but not vice versa. A cone may be sliced as a
+circle, oval, point, triangle or parabola but that does not mean that any of
+those when presented are exclusive to the cone. Mathematically it is an
+unconstrained system.
+*** Original Thought
+Penrose's Triangle, or other geometrical are not violations of space. The face
+we can group them as apparant violations of space in itself are confined to the
+limitations of 3D projection onto a 2D manifold, for example isometry.
+** The Propositional Sign as an Articulate Fact
+A proposition constrcuted out of relations of simples therefore is similar to
+the projection of an abstract body onto a lower dimensional plane into a set of
+points. Understanding the ways in which a projection can be generalized under
+constraints is the sense of a proposition. This projective relation to the world
+through langauge is the expression of though that Wittgenstein call's the
+Propositional Sign.
+
+Just as these set of points has order so to does the propositional sign. It is
+not merely a mixing of objects just as music is not a mixing of notes. This is
+to say only facts can express a sense a class of names cannot. Style covers over
+the propostional sign as when written gives the appearance of "just words".
+*** Original Thought
+Beat poetry seems to be an example that directly contradicts Wittgenstein here.
+It is possible to evoke emotion by beat poetry. How abstract a "sense" beat
+poetry conveys is up for debate. However, this would probably be expressed as
+style from Wittgenstein.
+
+Furthermore speech-acts to my knowledge seem to fly in the face of this. "I do"
+is not a fact and stand alone in a langauge it makes no sense out of the
+contextual understanding of marriage. The statement has obvious religous and
+legal conotations that are communicated to an audience despite not being a fact.
+** False assignment of names
+When written it is easy to mistake a complex for a named simple. We cannot say
+"aRb" says that "a" stands in a certain relation to "b", we must say "a" stands
+in a certain relation to "b" such that "aRb". That is we can _describe_ a state
+of affairs but not _name_ them.
+
+- Names are reserved for objects which interpreted geometrically are points
+- Propositions resemble arrows between points, they have sense
+
+Objects I can _name_, signs I can only _represent_. We can speak _of_ signs but
+not assert them. A proposition can only tell us _how_ not _what_. How does "a"
+stand in relation to "b", not what is "aRb"?
+*** Original Thought
+- How does a char sit next to a table
+  - Not what is a chair sitting next to a table
+- How does a calorie affect body mass
+  - Not what is a calorie affeting body mass
+** Language as an Underconstrained System
+A Propositional signs/elements are undersconstrained collections of points
+projecting a complex/fact that is formed of simples/objects. Through geometric
+analogy a set of points with arrow-like relations between them form an
+underconstrained projection of a higher dimensional analogue. We can still sense
+the truth through the signal but not understand the truth
+*** Original Thought
+Explaining the rules of pacman do not enable one to visualize how pacman looks
+like on a torus.
+** Names and Completely Analyzed Propositional Signs
+Our thoughts can be expressed in such a way that the _objects of our thoughts_
+are expressed as signs. These objects of our thoughts are referred to as _simple
+signs_ by Wittgenstein or more intuitively _names_. When a proposition is
+expressing them he uses the bi-gram _completely analyzed_. The name means the
+object and the object _is_ it's meaning. How these _simple signs_ are arranged
+describe and correspond to the state of affairs. The description of this state
+of affairs is either correct or incorrect.
+
+If we consider the difference between
+
+- a simple sign that is simply it's object
+- a sign that is a description of a complex
+
+each signify in their own way. What does not get expressed by the name of the
+the complex must be shown in it's application. What it conceals the application
+declares.
+
+To elucidate we must understand all the simple signs of a completely analyzed
+proposition. Thus we must understand al the simple signs before we can achieve
+elucidation
+
+*** Original Thought
+A child begins to describe a state of affairs by simply naming the objects in
+them. They point to an object and say the name of what they are pointing
+towards. How the objects are configured is highly nuanced however. If a child
+sees Santa Claus and their Mom such that Mommy is kissing Santa Claus in the
+realtion "aRb" bwhere "a" is their Mom which stands in relation to "b"
+santa-claus such that they are kissing the nuance of the relation between "a"
+and "b" is indeed quite complex. However while the signage of the world reflects
+_their_ objects of thought to an adult santa claus does not exist. Thus the
+sentence aR(cRb) describes their mom beside a man dressed as santa-claus
+kissing, the joke being that santa-claus is the kids dad.
+
+Here the child has a less perfect "language" because they were equipped to only
+describe what they saw to a certain accuracy which included a definite entity
+such as santa-claus not _how_ the state of affairs truly appeared (i.e. a man
+dressing like santa-claus). The child's description is further away from the one
+and only one completely analyzed proposition available by those who understand
+the simplesigns of which santa does not belong.
+** Constants and Variables
+Only propositions can have sense and names can only have meanings within their
+respective propositions. The perfect language describes all _relations_ of
+objects, objects cannot exist without _relations_ given objects are defined by
+the totality of _relations_ (Org notes 2.2). The parts of a proposition that
+convey the sense are called _expressions_ (or a _symbol_).
+
+Note that because a proposition has a sense the proposition itself is an
+expression. What propositions share in common are expressions. Like objects
+being defined in all the ways they can be described (Org notes 2.2) an
+expression presupposes the form of all the forms of propositions in which it can
+occur. In this form the expression is _constant_ and everything else _variable_.
+** Symbols and Sign
+An expression is presented by a variable the values of which the variable can
+take on being defined by the propositions which can contain the expression. An
+expression only has meaning within a proposition
+
+3.313-3.323 is quite hard to parse
+
+"Green is green" where the first is a proper noun and the last an adjective the
+words do not only have different meanings but different _symbols_ the _sign_ is
+the part of the _symbol_ that humans can see using one of their five senses.
+Thus logically the color green which we see or the word "green" which we hear
+from someone speaking orally or the written word "green" are all symbols. Two
+different symbols can still have the same sign but they _signify_ in different
+ways.
+
+_In everyday language the same word signifies in multiple ways_
+
+Thus to avoid errors we need a symbolism that obeys rules of a logical grammar.
+
+The sign only has a logical form when when embedded in logic (logical syntactic
+application) if the sign is superfluous/not necessary then it is meaningless.
+This is what Occam's Razor describes.
+** Accidental Features
+3.334-3.421 is also quite dense but it seems like Wittgenstein is aiming to give
+a robust description of why objects _cannot_ be understood in isolation they
+must be viewed in the totality of the world and their connections.
+
+Definitions of words that appear to isolate a subject are merely rules to
+translate between language, this is what all words have in common.
+
+** Thoughts
+The proposition determines a point in logical space. However to know the
+proposition one must understand the whole of the logical space given the
+proposition is understood by it's connections.
+
+To identify a proposition so as in a way to demarkate off a part of logical
+space from it is to be in denial from the proposition.
+
+Propositional sign is the thought (somehow)
+* Chapter 4
+** Propositions as reality
+The totality of propositions constitue a language with which to describe
+reality. Humans for whatever reason are able to speak colloquially without
+neccessairly understanding correct propositions.
+
+At first glance propositions does not seem to be a representation of reality. A
+musical score does not appear to encode music. However it is clear that they do
+form a picture of some abstract reality that they serve as the projection of.
+When understood intimately this pictoral nature is not marred by apparant
+irregularities such as a flat or sharp demarcation on a note. It encodes the
+logical structure present just as a gramophone records the sharp and the flat by
+the groves within it.
+
+Propositions show their senses. Consider hieroglyphics and how we can connect
+their pictoral nature with that of reality. They constitute a reality they show
+that one either confirms or denies which in turn becomes that individuals
+reality. Held together by a logical scaffolding a proposition can allow an
+individual to falsely believe in a reality that does not exist and furthermore
+draw conclusions from it's false proposition. Understanding a proposition is to
+understand what a proposition means if it is true. To understand what "you have
+a terminal illness" means is to understand what the ramifications of that
+statement are _if true_. This _does not mean you neccessarily have a terminal
+illness_, you can _falsely_ believe in your impending death and draw conclusions
+accordingly.
+** The Atomic Fact
+To learn new propositions it is essential that they can communicate new _senses_
+through old propositions. Old words and relations must give rise to new
+relations. These relations, words, and objects are the pictoral representation
+of the state of affairs. They are like an experiment which synthetically unites
+a variety of objects to hold them in relation with one and another to determine
+the truthhood of that state of affairs. Names describe things which are related
+and hang together cohesively to present a state of affairs which is like a
+living picture. What the picture communicates is the atomic fact.
+** The Sense of a Proposition
+The proposition is dependent on the naming of objects to present the atomic
+fact, but the _logic of the facts cannot be represented_
+
+For example consider two propositions of which one "p" signifies in a true way
+what "~p" signifies in the false way. One cannot infer correctly from "~p" as
+"p" is only understood _if it were true_. However it is important to note that
+nothing in reality can constitute the logic of the symbol "~" between the two
+cases. While "p" and "~p" have different sense they share the same reality.
+
+*** Original Thought
+"A jaguar is behind you", both share the sense of the same reality that a jaguar
+is _literally_ behind you causing you to be scared. However the truthood of the
+statement cannot be inferred by imagining the jaguar _not_ behind you. It is
+that of the jaguar being behind you and then that being negated -- but that
+negation corresponds to nothing in reality as the jaguar not being behind you or
+being behind you are simply logical descriptions of it's comparison with
+reality.
+
+This original thought is actually expounded (albeit more mathematically)
+immediately following the discussion of "p" and "~p" which is a sign of
+alignment between what I am comprehending and Wittgenstein's thought. However
+Wittgenstein very tersly points out that the sense of the proposition is that of
+understanding what it would be to evaluate it's truthood.
+
+To understand "A jaguar is behind you" is to understand _how to evaluate_ if a
+jaguar is behind me and in this way I have already sensed from the proposition.
+** Denials of Proposition
+To deny a proposition is to not evaluate the truthood. Rather it is to point
+out that a proposition that describes reality must exist not in the space
+occupied by the denied proposition. That one can deny the denial of a
+proposition is evidence that this must be a proposition as the assertion of a
+proposition corresponding with reality cannot be sensed for it asserts is the
+sense itself with reality
+** Philosophy as an activity
+The totality of true atomic facts constitutes all of the natural sciences.
+Philosophy is not a science it is an activity focused on elucidation to clarify
+propositions and demaarcate what is thinkable and what is unthinkable. It is the
+logical clarification of thought.
+** Everything can be said clearly
+Everything which can be thought can be thought clearly. Anything which can be
+said can be said articulately.
+
+*** Personal Thought
+I'm guessing this will be the sense of this text that P.I. tries to dismantle.
+
+Or perhaps slightly below what he tries to hit home
+
+What _can_ be shown _cannot_ be said
+** Internal Properties and Formal propositions
+There is a certain sense of formal relation between objects and atomic facts.
+A property is said to be internal if it is _unthinkable_ that an object would
+not have the property.
+
+That a bright shade of blue compared to a darker shade of blue stand _eo ipso_
+(by the very act or quality; thereby) in the internal relation of what is
+lighter and what is darker. It is unthinkable to conceive of these shades
+should not stand in this relation.
+
+Internal properties are represented in language by the propositions presenting
+them. Thus a series of propositions are connected by interal properties that
+chain them together aRb is equivalent to:
+
+- "\therexists x: aRx xRb"
+- "\therexists x, y: aRx xRy yRb"
+
+this allows us to discuss formal propositions
+
+The formal relation of the integer number line is an internal relation in that
+it is unthinkable to consider the sequence of numbers without them within a line.
+** The Object Psuedo-Concept
+The existance of "objects" by which internal properties are held between
+propositions is rightly said as the part "\therexists x, y" where "x" and "y"
+are the psudeo-objects. The psudeobjects must be applied in relation to the
+simples "a" and "b" otherwise they have no sense: "\therexists x: xRb" is
+senseless.  The psudeo-object must be applied to have any sense. One cannot say
+"there are 100 objects" or "thereare alphanull objects" or "there are objects"
+one must specify the simple or name of the complex.
+
+*** Original thought
+God it feels like Wittgenstein is describing abstract syntax trees. I imagine
+somebody must have written about this. Maybe that's why Wittgenstein felt he was
+so misunderstood... he was trying to describe how to write ASTs to people who
+didn't even have a sense of a computer works... shit this is pretty good.
+
+the name applied to an object in an AST is not the object itself but rather a
+symbol that indicates something which at it's core is of a boolenan nature --
+the simple or the object. At it's core these are either true or false in their
+binary representation. Of course we do not just write booleans, we write
+integers, floats, strings, chars all of which are expressed as a name for a
+specified relations of booleans on the very low level.
+
+We combing propostions to form an AST that approximates a picture of reality
+that is evaluated on it's final output at the end. The relations of objects are
+bound to the primary instructions like `+ - / *` in lisp etc and we as humans
+some where in this we generalize on top things like `map` or `reduce` things
+that do not exist in reality but connect propositions in such a way that at the
+end they can be verified against reality (this argument is weak).
+
+I like this a lot, reflect and come back.
+
+The atomic fact is the pictoral representation of reality for a the subtree of
+an AST.
