@@ -604,3 +604,24 @@ I like this a lot, reflect and come back.
 
 The atomic fact is the pictoral representation of reality for a the subtree of
 an AST.
+** Attack of Monoisum Dualism
+Because one cannot say there is "there are two objects" as it is senseless one
+cannot say there "Therea re two parts of man mind and body"
+** Truth Tables
+Wittgenstein goes ham on discussing truth tables the core takeaway of which are
+two extreme cases. Those which exist when the two propositions agree in all
+possibilities of a truth table which compares them denoted as _tautological_ and
+those that disagree in all possibilities denoted _self-contradictory_.
+
+A tautology shows what it says and a contradiction shows that it says nothing.
+
+Wittgenstein says that the events of the future cannot be predicted by the
+events of the present. I don't know if I'm going too hard on the lisp and him
+just being an early CS dude analogy here but it sounds a lot like Turing
+Complete. Research this.
+* Chapter 5
+** Limits of Language
+Logic precedes everything and if language is meant to convey logic as we
+understand it then the limit of our world is limited by language
+
+We cannot say what we cannot think therefore we cannot think what we cannot say
